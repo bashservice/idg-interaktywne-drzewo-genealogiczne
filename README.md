@@ -1,3 +1,7 @@
+
+
+
+
 # 🌳 IDG — Interaktywne Drzewo Genealogiczne
 
 **IDG (Interaktywne Drzewo Genealogiczne)** to lekka, działająca w całości w przeglądarce aplikacja webowa (Single-File App) służąca do budowania, wizualizacji i zarządzania historią rodziny. Projekt został stworzony z myślą o maksymalnej prywatności i prostocie — wszystkie dane, zdjęcia oraz dokumenty zapisywane są lokalnie w przeglądarce użytkownika za pomocą **IndexedDB**, bez potrzeby konfigurowania zewnętrznych serwerów czy baz danych.
@@ -5,11 +9,9 @@
 
 https://github.com/user-attachments/assets/912852a7-7a96-4f87-91eb-cb0ff3952f62
 
+https://github.com/user-attachments/assets/255cc756-a23a-43ba-b572-195a154a58a1
 
-
-https://github.com/user-attachments/assets/3e230b2c-a5bf-4a93-88c5-343f3bbcea01
-
-
+[Otwórz działającą stronę](https://bashservice.github.io/idg-interaktywne-drzewo-genealogiczne/)]
 ---
 
 ## ✨ Główne funkcjonalności
