@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/912852a7-7a96-4f87-91eb-cb0ff3952f62
 
 https://github.com/user-attachments/assets/255cc756-a23a-43ba-b572-195a154a58a1
 
-[Otwórz działającą stronę](https://bashservice.github.io/idg-interaktywne-drzewo-genealogiczne/)
+
 ---
 
 ## ✨ Główne funkcjonalności
